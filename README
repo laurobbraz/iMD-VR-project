@@ -1,0 +1,25 @@
+#----------------------------------------------------
+This is a work based on software UnityMol which you can download
+on the link below:
+
+https://owncloud.galaxy.ibpc.fr/owncloud/index.php/s/R0eMa5RBpK5x6gK
+
+UnityMol is being developed by Xavier Martinez and Marc Baaden.
+
+The code present in this repository was written by Lauro Braz
+from Physics Institute of University of São Paulo, Brazil.
+
+You can contact me through the e-amil: laurobbraz@usp.br
+#----------------------------------------------------
+
+About the code, you need to modify some lines, but only to write the
+path to .lammpstrj file and to define each molecule type based on your
+LAMMPS topology file info.
+
+The code is full of relevant comments and instructions, the instructions
+are essential and if you want to know what is happening in each line,
+read the comments too.
+
+Thanks for choose this bash/python code, hope you enjoy.
+
+
